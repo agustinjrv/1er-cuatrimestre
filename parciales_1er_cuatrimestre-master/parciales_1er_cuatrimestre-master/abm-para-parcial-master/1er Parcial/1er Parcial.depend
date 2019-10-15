@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1561904187 source:c:\users\josia_000\desktop\1er parcial\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1561907366 source:c:\users\josia_000\desktop\1er parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1561905539 c:\users\josia_000\desktop\1er parcial\peliculas.h
+	"actores.h"
+
+1561905951 c:\users\josia_000\desktop\1er parcial\biblioagus.h
+	"peliculas.h"
+
+1561907519 source:c:\users\josia_000\desktop\1er parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1561907519 source:c:\users\josia_000\desktop\1er parcial\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1561904160 c:\users\josia_000\desktop\1er parcial\actores.h
+
+1562078213 source:c:\users\josia_000\desktop\agustin\1er parcial\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562028397 c:\users\josia_000\desktop\agustin\1er parcial\peliculas.h
+	"actores.h"
+
+1562077784 c:\users\josia_000\desktop\agustin\1er parcial\actores.h
+
+1561905951 c:\users\josia_000\desktop\agustin\1er parcial\biblioagus.h
+	"peliculas.h"
+
+1561907519 source:c:\users\josia_000\desktop\agustin\1er parcial\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1562028397 source:c:\users\josia_000\desktop\agustin\1er parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562028397 source:c:\users\josia_000\desktop\agustin\1er parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+

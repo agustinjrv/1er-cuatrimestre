@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1557977179 source:c:\users\josia_000\desktop\abm2\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"biblioAgus.h"
+	"actores.h"
+
+1557977031 source:c:\users\josia_000\desktop\abm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"actores.h"
+	"biblioAgus.h"
+
+1557975679 c:\users\josia_000\desktop\abm2\peliculas.h
+
+1557974884 source:c:\users\josia_000\desktop\abm2\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+
+1557976585 source:c:\users\josia_000\desktop\abm2\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"biblioAgus.h"
+
+1557961373 c:\users\josia_000\desktop\abm2\biblioagus.h
+
+1557976585 c:\users\josia_000\desktop\abm2\actores.h
+	"Peliculas.h"
+
+1558835468 source:c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"biblioAgus.h"
+	"actores.h"
+
+1558834375 c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\peliculas.h
+
+1557977865 c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\biblioagus.h
+
+1558835417 c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\actores.h
+	"Peliculas.h"
+
+1557977865 source:c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+
+1557977865 source:c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"actores.h"
+	"biblioAgus.h"
+
+1558834391 source:c:\users\josia_000\downloads\bibleoteca-master\bibleoteca-master\abm2\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"biblioAgus.h"
+
+1557977865 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+
+1558834375 c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\peliculas.h
+
+1558880932 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"actores.h"
+	"biblioAgus.h"
+
+1558908717 c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\actores.h
+	"Peliculas.h"
+
+1557977865 c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\biblioagus.h
+
+1558900224 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"biblioAgus.h"
+
+1558909056 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\bibleoteca-master\abm2\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Peliculas.h"
+	"biblioAgus.h"
+	"actores.h"
+

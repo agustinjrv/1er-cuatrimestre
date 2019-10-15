@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1556579243 source:c:\users\josia_000\desktop\tp\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1556579206 c:\users\josia_000\desktop\tp\biblioteca.h
+
+1556577898 source:c:\users\josia_000\desktop\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1556846349 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp mejorado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1556846799 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp mejorado\biblioteca.h
+
+1556845813 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp mejorado\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1556668015 source:c:\users\josia_000\desktop\tp mejorado\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1556634937 c:\users\josia_000\desktop\tp mejorado\biblioteca.h
+
+1556668006 source:c:\users\josia_000\desktop\tp mejorado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1557095826 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557096182 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp2\arrayemployees.h
+
+1557096182 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557096265 source:c:\users\josia_000\desktop\tp2-master\tp2-master\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557096265 c:\users\josia_000\desktop\tp2-master\tp2-master\tp2\arrayemployees.h
+
+1557096265 source:c:\users\josia_000\desktop\tp2-master\tp2-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557338363 source:c:\users\josia_000\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557338363 c:\users\josia_000\desktop\tp2\arrayemployees.h
+
+1557338363 source:c:\users\josia_000\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557409755 source:c:\users\alumno\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557410163 c:\users\alumno\desktop\tp2\arrayemployees.h
+
+1557408659 source:c:\users\alumno\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557406811 source:c:\users\alumno\desktop\tp2\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"actores.h"
+	"genero.h"
+
+1557406811 c:\users\alumno\desktop\tp2\actores.h
+
+1557406994 c:\users\alumno\desktop\tp2\genero.h
+
+1557406994 source:c:\users\alumno\desktop\tp2\genero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"actores.h"
+	"genero.h"
+

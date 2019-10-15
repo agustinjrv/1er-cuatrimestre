@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1562249090 source:d:\rivola 1b\rec 1er parcial\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562243269 d:\rivola 1b\rec 1er parcial\peliculas.h
+	"actores.h"
+
+1562248708 d:\rivola 1b\rec 1er parcial\actores.h
+
+1562108467 d:\rivola 1b\rec 1er parcial\biblioagus.h
+	"peliculas.h"
+
+1562249290 source:d:\rivola 1b\rec 1er parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562243833 source:d:\rivola 1b\rec 1er parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562245860 source:d:\rivola 1b\rec 1er parcial\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+

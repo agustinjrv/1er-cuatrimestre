@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1554324725 source:c:\users\josia_000\desktop\calculadora\biblioteca.c
+	"biblioteca.h"
+
+1554325642 source:c:\users\josia_000\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554169490 c:\users\josia_000\desktop\calculadora\biblioteca.h
+
+1554330388 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\calculadora\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554330592 c:\users\josia_000\desktop\agustin\programacion\programacion 1\calculadora\biblioteca.h
+
+1554329561 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554327708 source:c:\users\josia_000\desktop\calculadora - copia\biblioteca.c
+	"biblioteca.h"
+
+1554327219 c:\users\josia_000\desktop\calculadora - copia\biblioteca.h
+
+1554329053 source:c:\users\josia_000\desktop\calculadora - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554330388 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp1_calculadora\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554331179 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp1_calculadora\biblioteca.h
+
+1554329561 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554427941 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\calculadora - modificado\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554332694 c:\users\josia_000\desktop\agustin\programacion\programacion 1\calculadora - modificado\biblioteca.h
+
+1554428107 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\calculadora - modificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+

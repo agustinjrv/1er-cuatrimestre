@@ -1,0 +1,349 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 source:c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\employee.c
+
+1533133022 source:c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\linkedlist.h
+
+1533133022 c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\employee.h
+
+1559605707 source:c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559603147 source:c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1533133022 c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\controller.h
+
+1559600086 c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\biblioagus.h
+
+1559600176 source:c:\users\juan\desktop\profesor particular\tp3\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+
+1559606251 source:c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+
+1559833480 source:c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\employee.c
+	"Employee.h"
+
+1559606251 source:c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1559606251 c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\linkedlist.h
+
+1559606251 c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\controller.h
+
+1559833462 c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\employee.h
+
+1559606251 c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\biblioagus.h
+
+1559606251 source:c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559833462 source:c:\users\alumno\downloads\tp3-master\tp3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560517447 source:c:\users\alumno\downloads\tp3-master\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1560518129 source:c:\users\alumno\downloads\tp3-master\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"biblioAgus.h"
+	"parser.h"
+
+1560526078 c:\users\alumno\downloads\tp3-master\tp3\win_64\linkedlist.h
+
+1560477864 c:\users\alumno\downloads\tp3-master\tp3\win_64\employee.h
+	"LinkedList.h"
+
+1560521352 source:c:\users\alumno\downloads\tp3-master\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"biblioAgus.h"
+
+1560525705 source:c:\users\alumno\downloads\tp3-master\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1560477864 c:\users\alumno\downloads\tp3-master\tp3\win_64\controller.h
+
+1560477864 c:\users\alumno\downloads\tp3-master\tp3\win_64\biblioagus.h
+
+1560477864 source:c:\users\alumno\downloads\tp3-master\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560526134 source:c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1560547994 source:c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"biblioAgus.h"
+	"parser.h"
+
+1560526134 c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\linkedlist.h
+
+1560547749 c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\employee.h
+	"LinkedList.h"
+
+1560547803 source:c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"biblioAgus.h"
+
+1560526134 source:c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560546396 source:c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1560526134 c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\controller.h
+
+1560526134 c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\biblioagus.h
+
+1560477864 c:\users\alumno\downloads\tp3-master\tp3\win_64\parser.h
+
+1560006207 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+
+1560205915 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"biblioAgus.h"
+
+1560006207 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\employee.h
+
+1560006207 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\biblioagus.h
+
+1560006207 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560006207 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\linkedlist.h
+
+1560206936 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1560006207 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\controller.h
+
+1560209142 source:c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"biblioAgus.h"
+	"parser.h"
+
+1560006207 c:\users\josia_000\desktop\agustin\programacion\programacion 1\tp3-master\tp3-master\tp3\win_64\parser.h
+
+1560210634 source:c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+
+1560210634 source:c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"biblioAgus.h"
+
+1560210634 c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\employee.h
+
+1560210634 c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\biblioagus.h
+
+1560210634 source:c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560210634 c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\linkedlist.h
+
+1560285876 source:c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1560210634 c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\controller.h
+
+1560286196 source:c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"biblioAgus.h"
+	"parser.h"
+
+1560210634 c:\users\juan\desktop\tp3-master\tp3-master\tp3\win_64\parser.h
+
+1560275572 source:c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+
+1560350749 source:c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"biblioAgus.h"
+
+1560350749 c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\employee.h
+
+1560275572 c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\biblioagus.h
+
+1560350654 source:c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"biblioAgus.h"
+
+1560275572 c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\linkedlist.h
+
+1560275572 c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\controller.h
+
+1560275572 source:c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560350114 source:c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"biblioAgus.h"
+	"parser.h"
+
+1560275572 c:\users\alumno\downloads\tp3-master\tp3-master\tp3\win_64\parser.h
+
+1560526134 c:\users\josia_000\downloads\tp3-master\tp3-master\tp3\win_64\parser.h
+

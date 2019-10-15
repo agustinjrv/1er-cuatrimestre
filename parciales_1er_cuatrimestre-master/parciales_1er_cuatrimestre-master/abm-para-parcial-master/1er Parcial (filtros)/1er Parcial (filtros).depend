@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1562086261 source:c:\users\josia_000\desktop\1er parcial (filtros)\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562107724 c:\users\josia_000\desktop\1er parcial (filtros)\peliculas.h
+	"actores.h"
+
+1562077784 c:\users\josia_000\desktop\1er parcial (filtros)\actores.h
+
+1561905951 c:\users\josia_000\desktop\1er parcial (filtros)\biblioagus.h
+	"peliculas.h"
+
+1562107474 source:c:\users\josia_000\desktop\1er parcial (filtros)\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1562108270 source:c:\users\josia_000\desktop\1er parcial (filtros)\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
+1562079323 source:c:\users\josia_000\desktop\1er parcial (filtros)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"biblioAgus.h"
+
