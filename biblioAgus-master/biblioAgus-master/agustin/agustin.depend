@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555113081 source:c:\users\josia_000\desktop\biblioagus-master\biblioagus-master\agustin\biblioagus.c
+	<stdio.h>
+	<stdlib.h>
+
+1555113081 source:c:\users\josia_000\desktop\biblioagus-master\biblioagus-master\agustin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioAgus.h"
+
+1555113106 c:\users\josia_000\desktop\biblioagus-master\biblioagus-master\agustin\biblioagus.h
+
